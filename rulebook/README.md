@@ -42,6 +42,8 @@ permalink: "/rulebook/"
 ## فهرست جامع نقش‌ها
 
 - [۲۵۲ نقش دارای قانون منتشرشده]({{ site.baseurl }}/rulebook/roles/)
+- [سناریوهای دارای دیتای رول‌بوک]({{ site.baseurl }}/rulebook/scenarios/)
+- [آمار پوشش داده عمومی]({{ site.baseurl }}/rulebook/data-coverage/)
 
 ## دسترسی سریع
 
