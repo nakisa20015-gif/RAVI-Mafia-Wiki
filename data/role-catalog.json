@@ -1,0 +1,1514 @@
+[
+  {
+    "slug": "cadv-snowman",
+    "name_fa": "آدم‌برفی",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "sh-arash",
+    "name_fa": "آرش کمانگیر",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "zodiac-al-capone",
+    "name_fa": "آل کاپون",
+    "team": "mafia",
+    "scenario_count": 1
+  },
+  {
+    "slug": "texas-sniper",
+    "name_fa": "اسنایپ",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "epic-sniper",
+    "name_fa": "اسنایپر",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "han-sniper-elite",
+    "name_fa": "اسنایپر الیت",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "sh-afrasiab",
+    "name_fa": "افراسیاب",
+    "team": "mafia",
+    "scenario_count": 1
+  },
+  {
+    "slug": "el-martinez",
+    "name_fa": "افسر مارتینز",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "cadv-enchanter",
+    "name_fa": "افسونگر",
+    "team": "mafia",
+    "scenario_count": 1
+  },
+  {
+    "slug": "cadv-alfred",
+    "name_fa": "الفرد",
+    "team": "independent",
+    "scenario_count": 1
+  },
+  {
+    "slug": "han-avenger",
+    "name_fa": "انتقام‌جو",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "zodiac-ocean",
+    "name_fa": "اوشن",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "avenger-role",
+    "name_fa": "اونجر",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "epic-santa",
+    "name_fa": "بابانوعل",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "epic-bodyguard",
+    "name_fa": "بادی گارد",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "inspector",
+    "name_fa": "بازپرس",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "zodiac-bomber",
+    "name_fa": "بمب گذار",
+    "team": "mafia",
+    "scenario_count": 1
+  },
+  {
+    "slug": "cadv-bomber",
+    "name_fa": "بمبر",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "cadv-bomb-planter",
+    "name_fa": "بمب‌گذار",
+    "team": "mafia",
+    "scenario_count": 1
+  },
+  {
+    "slug": "sh-owl",
+    "name_fa": "بوف",
+    "team": "mafia",
+    "scenario_count": 1
+  },
+  {
+    "slug": "epic-pablo",
+    "name_fa": "پابلو",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "el-pablo",
+    "name_fa": "پابلو اسکوبار",
+    "team": "mafia",
+    "scenario_count": 1
+  },
+  {
+    "slug": "gf-father",
+    "name_fa": "پدرخوانده",
+    "team": "mafia",
+    "scenario_count": 2
+  },
+  {
+    "slug": "mn-godfather",
+    "name_fa": "پدرخوانده",
+    "team": "mafia",
+    "scenario_count": 1
+  },
+  {
+    "slug": "doctor",
+    "name_fa": "پزشک",
+    "team": "citizen",
+    "scenario_count": 6
+  },
+  {
+    "slug": "mn-doctor",
+    "name_fa": "پزشک",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "texas-doctor",
+    "name_fa": "پزشک",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "epic-poisoner",
+    "name_fa": "پویزنر",
+    "team": "independent",
+    "scenario_count": 1
+  },
+  {
+    "slug": "epic-tyler",
+    "name_fa": "تایلر",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "epic-tracker",
+    "name_fa": "ترکر",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "black-terrorist",
+    "name_fa": "تروریست",
+    "team": "mafia",
+    "scenario_count": 1
+  },
+  {
+    "slug": "cadv-terrorist",
+    "name_fa": "تروریست",
+    "team": "mafia",
+    "scenario_count": 1
+  },
+  {
+    "slug": "epic-terrorist",
+    "name_fa": "تروریست",
+    "team": "mafia",
+    "scenario_count": 1
+  },
+  {
+    "slug": "black-gunner",
+    "name_fa": "تفنگدار",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "cadv-gunner",
+    "name_fa": "تفنگدار",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "epic-gunner",
+    "name_fa": "تفنگدار",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "gunner",
+    "name_fa": "تفنگدار",
+    "team": "citizen",
+    "scenario_count": 2
+  },
+  {
+    "slug": "zodiac-gunner",
+    "name_fa": "تفنگدار",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "sniper",
+    "name_fa": "تک تیرانداز",
+    "team": "citizen",
+    "scenario_count": 2
+  },
+  {
+    "slug": "ranger",
+    "name_fa": "تکاور",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "black-sniper",
+    "name_fa": "تک‌تیرانداز",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "cadv-sniper",
+    "name_fa": "تک‌تیرانداز",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "pc-framer",
+    "name_fa": "تهمت‌زن",
+    "team": "mafia",
+    "scenario_count": 1
+  },
+  {
+    "slug": "cadv-wizard",
+    "name_fa": "جادوگر",
+    "team": "mafia",
+    "scenario_count": 1
+  },
+  {
+    "slug": "texas-witch",
+    "name_fa": "جادوگر",
+    "team": "mafia",
+    "scenario_count": 1
+  },
+  {
+    "slug": "witch",
+    "name_fa": "جادوگر",
+    "team": "mafia",
+    "scenario_count": 1
+  },
+  {
+    "slug": "black-magician",
+    "name_fa": "جادوگر / افسونگر",
+    "team": "mafia",
+    "scenario_count": 1
+  },
+  {
+    "slug": "epic-spy",
+    "name_fa": "جاسوس",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "sh-jamasb",
+    "name_fa": "جاماسب",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "mn-diehard",
+    "name_fa": "جان سخت",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "texas-tough",
+    "name_fa": "جان سخت",
+    "team": "mafia",
+    "scenario_count": 1
+  },
+  {
+    "slug": "black-surgeon",
+    "name_fa": "جراح",
+    "team": "mafia",
+    "scenario_count": 1
+  },
+  {
+    "slug": "court-executioner",
+    "name_fa": "جلاد",
+    "team": "mafia",
+    "scenario_count": 1
+  },
+  {
+    "slug": "executioner",
+    "name_fa": "جلاد",
+    "team": "mafia",
+    "scenario_count": 1
+  },
+  {
+    "slug": "epic-janitor",
+    "name_fa": "جنیتور",
+    "team": "mafia",
+    "scenario_count": 1
+  },
+  {
+    "slug": "mn-joker",
+    "name_fa": "جوکر",
+    "team": "independent",
+    "scenario_count": 1
+  },
+  {
+    "slug": "epic-jigsaw",
+    "name_fa": "جیکسا",
+    "team": "independent",
+    "scenario_count": 1
+  },
+  {
+    "slug": "el-chaplin",
+    "name_fa": "چارلی چاپلین",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "court-guerrilla",
+    "name_fa": "چریک",
+    "team": "mafia",
+    "scenario_count": 1
+  },
+  {
+    "slug": "mn-professional",
+    "name_fa": "حرفه ای",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "zodiac-professional",
+    "name_fa": "حرفه ای",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "epic-khan",
+    "name_fa": "خان",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "informant",
+    "name_fa": "خبرچین",
+    "team": "mafia",
+    "scenario_count": 1
+  },
+  {
+    "slug": "black-reporter",
+    "name_fa": "خبرنگار",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "reporter",
+    "name_fa": "خبرنگار",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "cadv-saboteur",
+    "name_fa": "خرابکار",
+    "team": "mafia",
+    "scenario_count": 1
+  },
+  {
+    "slug": "pc-saboteur",
+    "name_fa": "خرابکار",
+    "team": "mafia",
+    "scenario_count": 1
+  },
+  {
+    "slug": "texas-bat",
+    "name_fa": "خفاش",
+    "team": "mafia",
+    "scenario_count": 1
+  },
+  {
+    "slug": "el-juan",
+    "name_fa": "خوآن ولاسکویئز",
+    "team": "mafia",
+    "scenario_count": 1
+  },
+  {
+    "slug": "texas-dalton",
+    "name_fa": "دالتون",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "cadv-double",
+    "name_fa": "دبل",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "black-thief",
+    "name_fa": "دزد",
+    "team": "mafia",
+    "scenario_count": 1
+  },
+  {
+    "slug": "cadv-thief",
+    "name_fa": "دزد",
+    "team": "independent",
+    "scenario_count": 1
+  },
+  {
+    "slug": "black-doctor",
+    "name_fa": "دکتر",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "cadv-doctor",
+    "name_fa": "دکتر",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "epic-doctor",
+    "name_fa": "دکتر",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "han-doctor",
+    "name_fa": "دکتر",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "zodiac-doctor",
+    "name_fa": "دکتر",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "rep-doctor",
+    "name_fa": "دکتر (نماینده)",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "el-doctor",
+    "name_fa": "دکتر بریجت",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "cadv-lecter",
+    "name_fa": "دکتر لکتر",
+    "team": "mafia",
+    "scenario_count": 1
+  },
+  {
+    "slug": "mn-lecter",
+    "name_fa": "دکتر لکتر",
+    "team": "mafia",
+    "scenario_count": 1
+  },
+  {
+    "slug": "gf-watson",
+    "name_fa": "دکتر واتسون",
+    "team": "citizen",
+    "scenario_count": 2
+  },
+  {
+    "slug": "don-mafia",
+    "name_fa": "دن مافیا",
+    "team": "mafia",
+    "scenario_count": 1
+  },
+  {
+    "slug": "rep-don",
+    "name_fa": "دن مافیا (نماینده)",
+    "team": "mafia",
+    "scenario_count": 1
+  },
+  {
+    "slug": "texas-duelist",
+    "name_fa": "دوئلیست",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "cadv-doval-pa",
+    "name_fa": "دوال پا",
+    "team": "independent",
+    "scenario_count": 1
+  },
+  {
+    "slug": "epic-dualman",
+    "name_fa": "دوعل من",
+    "team": "mafia",
+    "scenario_count": 1
+  },
+  {
+    "slug": "black-godfather",
+    "name_fa": "رئیس مافیا",
+    "team": "mafia",
+    "scenario_count": 1
+  },
+  {
+    "slug": "han-boss",
+    "name_fa": "رئیس مافیا",
+    "team": "mafia",
+    "scenario_count": 1
+  },
+  {
+    "slug": "mafia-boss",
+    "name_fa": "رئیس مافیا",
+    "team": "mafia",
+    "scenario_count": 5
+  },
+  {
+    "slug": "texas-boss",
+    "name_fa": "رئیس مافیا",
+    "team": "mafia",
+    "scenario_count": 1
+  },
+  {
+    "slug": "black-chairman",
+    "name_fa": "رئیس هیئت‌مدیره",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "texas-robber",
+    "name_fa": "راهزن",
+    "team": "mafia",
+    "scenario_count": 1
+  },
+  {
+    "slug": "rep-guide",
+    "name_fa": "راهنما",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "sh-rostam",
+    "name_fa": "رستم",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "court-peasant",
+    "name_fa": "رعیت",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "roointan",
+    "name_fa": "روئین تن",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "mn-psychiatrist",
+    "name_fa": "روانپزشک",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "black-psychiatrist",
+    "name_fa": "روان‌پزشک",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "epic-rojak",
+    "name_fa": "روژاک",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "cadv-russian-roulette",
+    "name_fa": "رولت روسی",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "ronant-role",
+    "name_fa": "رونانت",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "cadv-roointan",
+    "name_fa": "رویین‌تن",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "black-armored",
+    "name_fa": "رویین‌تن / سخت‌جان",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "court-elder",
+    "name_fa": "ریش سفید",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "cadv-zombie",
+    "name_fa": "زامبی",
+    "team": "independent",
+    "scenario_count": 1
+  },
+  {
+    "slug": "texas-zombie",
+    "name_fa": "زامبی",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "armored",
+    "name_fa": "زره پوش",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "blacksmith",
+    "name_fa": "زره‌ساز",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "zodiac-killer",
+    "name_fa": "زودیاک",
+    "team": "independent",
+    "scenario_count": 1
+  },
+  {
+    "slug": "el-bonaparte",
+    "name_fa": "ژنرال بناپارت",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "jupiter-role",
+    "name_fa": "ژوپیتر",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "black-bartender",
+    "name_fa": "ساقی",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "cadv-saghi",
+    "name_fa": "ساقی",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "epic-samurai",
+    "name_fa": "سامورایی",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "gf-saul",
+    "name_fa": "ساول گودمن",
+    "team": "mafia",
+    "scenario_count": 2
+  },
+  {
+    "slug": "epic-silencer",
+    "name_fa": "سایلنسر",
+    "team": "mafia",
+    "scenario_count": 1
+  },
+  {
+    "slug": "rep-soldier",
+    "name_fa": "سرباز",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "texas-soldier",
+    "name_fa": "سرباز",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "court-sarbedar",
+    "name_fa": "سربدار",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "texas-colonel",
+    "name_fa": "سرهنگ",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "court-sultan",
+    "name_fa": "سلطان",
+    "team": "mafia",
+    "scenario_count": 1
+  },
+  {
+    "slug": "sh-simorgh",
+    "name_fa": "سیمرغ",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "cadv-charlatan",
+    "name_fa": "شارلاتان",
+    "team": "mafia",
+    "scenario_count": 1
+  },
+  {
+    "slug": "court-nightwalker",
+    "name_fa": "شب گرد",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "epic-shadow",
+    "name_fa": "شدو",
+    "team": "mafia",
+    "scenario_count": 1
+  },
+  {
+    "slug": "sherlock-holmes-independent",
+    "name_fa": "شرلوک هولمز",
+    "team": "independent",
+    "scenario_count": 1
+  },
+  {
+    "slug": "zodiac-magician",
+    "name_fa": "شعبده باز",
+    "team": "mafia",
+    "scenario_count": 1
+  },
+  {
+    "slug": "texas-hunter",
+    "name_fa": "شکارچی",
+    "team": "mafia",
+    "scenario_count": 1
+  },
+  {
+    "slug": "court-swordsmith",
+    "name_fa": "شمشیر ساز",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "black-mayor",
+    "name_fa": "شهردار",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "epic-mayor",
+    "name_fa": "شهردار",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "mn-mayor",
+    "name_fa": "شهردار",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "black-citizen",
+    "name_fa": "شهروند ساده",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "gf-simple-citizen",
+    "name_fa": "شهروند ساده",
+    "team": "citizen",
+    "scenario_count": 2
+  },
+  {
+    "slug": "han-simple-citizen",
+    "name_fa": "شهروند ساده",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "mn-simple-citizen",
+    "name_fa": "شهروند ساده",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "simple-citizen",
+    "name_fa": "شهروند ساده",
+    "team": "citizen",
+    "scenario_count": 8
+  },
+  {
+    "slug": "zodiac-simple-citizen",
+    "name_fa": "شهروند ساده",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "rep-simple-citizen",
+    "name_fa": "شهروند ساده (نماینده)",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "el-simple-citizen",
+    "name_fa": "شهروند ساده ال‌کلاسیکو",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "trickster",
+    "name_fa": "شیاد",
+    "team": "mafia",
+    "scenario_count": 1
+  },
+  {
+    "slug": "black-devilish",
+    "name_fa": "شیطان‌صفت",
+    "team": "independent",
+    "scenario_count": 1
+  },
+  {
+    "slug": "sh-zahhak",
+    "name_fa": "ضحاک",
+    "team": "mafia",
+    "scenario_count": 1
+  },
+  {
+    "slug": "court-doctor",
+    "name_fa": "طبیب",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "han-fan",
+    "name_fa": "طرفدار",
+    "team": "independent",
+    "scenario_count": 1
+  },
+  {
+    "slug": "attar",
+    "name_fa": "عطار",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "cadv-spider",
+    "name_fa": "عنکبوت",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "texas-spider",
+    "name_fa": "عنکبوت",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "epic-ghoul",
+    "name_fa": "غول",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "black-sacrifice",
+    "name_fa": "فدایی",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "black-mason",
+    "name_fa": "فراماسون",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "cadv-freemason",
+    "name_fa": "فراماسون",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "cadv-commander",
+    "name_fa": "فرمانده",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "mn-seller",
+    "name_fa": "فروشنده",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "black-judge",
+    "name_fa": "قاضی",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "cadv-judge",
+    "name_fa": "قاضی",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "epic-judge",
+    "name_fa": "قاضی",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "texas-judge",
+    "name_fa": "قاضی",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "black-hero",
+    "name_fa": "قهرمان",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "han-hero",
+    "name_fa": "قهرمان",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "adv-cowboy",
+    "name_fa": "کابوی",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "cadv-cowboy",
+    "name_fa": "کابوی",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "texas-cowboy",
+    "name_fa": "کابوی",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "court-scribe",
+    "name_fa": "کاتب",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "black-detective",
+    "name_fa": "کارآگاه",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "cadv-detective",
+    "name_fa": "کارآگاه",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "detective",
+    "name_fa": "کارآگاه",
+    "team": "citizen",
+    "scenario_count": 7
+  },
+  {
+    "slug": "han-detective",
+    "name_fa": "کارآگاه",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "mn-detective",
+    "name_fa": "کارآگاه",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "zodiac-detective",
+    "name_fa": "کارآگاه",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "epic-consort",
+    "name_fa": "کانسورد",
+    "team": "mafia",
+    "scenario_count": 1
+  },
+  {
+    "slug": "sh-kaveh",
+    "name_fa": "کاوه",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "village-head",
+    "name_fa": "کدخدا",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "epic-crusader",
+    "name_fa": "کروسایدر",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "black-priest",
+    "name_fa": "کشیش",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "epic-priest",
+    "name_fa": "کشیش",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "court-watch",
+    "name_fa": "کشیک",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "black-sheriff",
+    "name_fa": "کلانتر",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "epic-keymaker",
+    "name_fa": "کلید ساز",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "gf-constantine",
+    "name_fa": "کنستانتین",
+    "team": "citizen",
+    "scenario_count": 2
+  },
+  {
+    "slug": "cadv-killer",
+    "name_fa": "کیلر",
+    "team": "independent",
+    "scenario_count": 1
+  },
+  {
+    "slug": "texas-alchemist",
+    "name_fa": "کیمیاگر",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "epic-godfather",
+    "name_fa": "گادفادر",
+    "team": "mafia",
+    "scenario_count": 1
+  },
+  {
+    "slug": "godfather",
+    "name_fa": "گادفادر",
+    "team": "mafia",
+    "scenario_count": 1
+  },
+  {
+    "slug": "hostage-taker",
+    "name_fa": "گروگانگیر",
+    "team": "mafia",
+    "scenario_count": 1
+  },
+  {
+    "slug": "el-blanco",
+    "name_fa": "گریسلیدا بلانکو",
+    "team": "mafia",
+    "scenario_count": 1
+  },
+  {
+    "slug": "black-gravedigger",
+    "name_fa": "گورکن",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "cadv-gravedigger",
+    "name_fa": "گورکن",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "texas-ghost",
+    "name_fa": "گوست",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "gf-leon",
+    "name_fa": "لئون حرفه‌ای",
+    "team": "citizen",
+    "scenario_count": 2
+  },
+  {
+    "slug": "texas-luke",
+    "name_fa": "لوک",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "epic-lookout",
+    "name_fa": "لوک اوت",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "gf-matador",
+    "name_fa": "ماتادور",
+    "team": "mafia",
+    "scenario_count": 2
+  },
+  {
+    "slug": "epic-mason",
+    "name_fa": "ماسون",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "cadv-don",
+    "name_fa": "مافیا دن",
+    "team": "mafia",
+    "scenario_count": 1
+  },
+  {
+    "slug": "mn-simple-mafia",
+    "name_fa": "مافیا ساده",
+    "team": "mafia",
+    "scenario_count": 1
+  },
+  {
+    "slug": "simple-mafia",
+    "name_fa": "مافیا ساده",
+    "team": "mafia",
+    "scenario_count": 5
+  },
+  {
+    "slug": "han-shadow",
+    "name_fa": "مافیا سایه",
+    "team": "mafia",
+    "scenario_count": 1
+  },
+  {
+    "slug": "black-mafia",
+    "name_fa": "مافیای ساده",
+    "team": "mafia",
+    "scenario_count": 1
+  },
+  {
+    "slug": "cadv-special-mafia",
+    "name_fa": "مافیای ویژه",
+    "team": "mafia",
+    "scenario_count": 1
+  },
+  {
+    "slug": "cadv-protector",
+    "name_fa": "محافظ",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "zodiac-protector",
+    "name_fa": "محافظ",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "rep-protector",
+    "name_fa": "محافظ (نماینده)",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "black-researcher",
+    "name_fa": "محقق",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "hunter-citizen",
+    "name_fa": "محقق",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "cadv-medusa",
+    "name_fa": "مدوسا",
+    "team": "independent",
+    "scenario_count": 1
+  },
+  {
+    "slug": "negotiator",
+    "name_fa": "مذاکره کننده",
+    "team": "mafia",
+    "scenario_count": 1
+  },
+  {
+    "slug": "black-negotiator",
+    "name_fa": "مذاکره‌کننده",
+    "team": "mafia",
+    "scenario_count": 1
+  },
+  {
+    "slug": "court-mercenary",
+    "name_fa": "مزدور",
+    "team": "mafia",
+    "scenario_count": 1
+  },
+  {
+    "slug": "suspect",
+    "name_fa": "مظنون",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "black-mistress",
+    "name_fa": "معشوقه",
+    "team": "mafia",
+    "scenario_count": 1
+  },
+  {
+    "slug": "texas-mistress",
+    "name_fa": "معشوقه",
+    "team": "mafia",
+    "scenario_count": 1
+  },
+  {
+    "slug": "han-architect",
+    "name_fa": "معمار",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "court-inspector",
+    "name_fa": "مفتش",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "court-ammo",
+    "name_fa": "مهمات چی",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "el-moreno",
+    "name_fa": "مورنو",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "texas-mummy",
+    "name_fa": "مومیایی",
+    "team": "mafia",
+    "scenario_count": 1
+  },
+  {
+    "slug": "rep-minelayer",
+    "name_fa": "مین‌گذار",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "black-natasha",
+    "name_fa": "ناتاشا",
+    "team": "mafia",
+    "scenario_count": 1
+  },
+  {
+    "slug": "cadv-nato",
+    "name_fa": "ناتو",
+    "team": "mafia",
+    "scenario_count": 1
+  },
+  {
+    "slug": "han-nato",
+    "name_fa": "ناتو",
+    "team": "mafia",
+    "scenario_count": 1
+  },
+  {
+    "slug": "nato",
+    "name_fa": "ناتو",
+    "team": "mafia",
+    "scenario_count": 2
+  },
+  {
+    "slug": "rep-nato",
+    "name_fa": "ناتو (نماینده)",
+    "team": "mafia",
+    "scenario_count": 1
+  },
+  {
+    "slug": "black-baker",
+    "name_fa": "نانوا",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "cadv-baker",
+    "name_fa": "نانوا",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "black-deputy",
+    "name_fa": "نایب",
+    "team": "independent",
+    "scenario_count": 1
+  },
+  {
+    "slug": "black-elite",
+    "name_fa": "نخبه / بمب‌ساز",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "cadv-nero",
+    "name_fa": "نرون",
+    "team": "independent",
+    "scenario_count": 1
+  },
+  {
+    "slug": "masked-man-role",
+    "name_fa": "نقاب دار",
+    "team": "mafia",
+    "scenario_count": 1
+  },
+  {
+    "slug": "black-guard",
+    "name_fa": "نگهبان",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "guard",
+    "name_fa": "نگهبان",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "gf-nostradamus",
+    "name_fa": "نوستراداموس",
+    "team": "independent",
+    "scenario_count": 1
+  },
+  {
+    "slug": "han-hannibal",
+    "name_fa": "هانیبال",
+    "team": "mafia",
+    "scenario_count": 1
+  },
+  {
+    "slug": "epic-hyper",
+    "name_fa": "هایپر",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "black-thousand-face",
+    "name_fa": "هزارچهره",
+    "team": "independent",
+    "scenario_count": 1
+  },
+  {
+    "slug": "texas-seven-shooter",
+    "name_fa": "هفت‌تیرکش",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "cadv-hacker",
+    "name_fa": "هکر",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "rep-hacker",
+    "name_fa": "هکر",
+    "team": "mafia",
+    "scenario_count": 1
+  },
+  {
+    "slug": "gf-kane",
+    "name_fa": "همشهری کین",
+    "team": "citizen",
+    "scenario_count": 2
+  },
+  {
+    "slug": "heir",
+    "name_fa": "وارث",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "epic-veteran",
+    "name_fa": "وترن",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "epic-werewolf",
+    "name_fa": "ورولف",
+    "team": "independent",
+    "scenario_count": 1
+  },
+  {
+    "slug": "epic-lawyer",
+    "name_fa": "وکیل",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "rep-lawyer",
+    "name_fa": "وکیل (نماینده)",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "cadv-wilfred",
+    "name_fa": "ویلفرد",
+    "team": "independent",
+    "scenario_count": 1
+  },
+  {
+    "slug": "el-churchill",
+    "name_fa": "وینستون چرچیل",
+    "team": "independent",
+    "scenario_count": 1
+  },
+  {
+    "slug": "sh-light-ally",
+    "name_fa": "یار روشنایی",
+    "team": "citizen",
+    "scenario_count": 1
+  },
+  {
+    "slug": "rep-rebel",
+    "name_fa": "یاغی",
+    "team": "mafia",
+    "scenario_count": 1
+  },
+  {
+    "slug": "ca-yakuza",
+    "name_fa": "یاکوزا",
+    "team": "mafia",
+    "scenario_count": 1
+  },
+  {
+    "slug": "texas-orphan",
+    "name_fa": "یتیم",
+    "team": "citizen",
+    "scenario_count": 1
+  }
+]
