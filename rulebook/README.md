@@ -39,6 +39,10 @@ permalink: "/rulebook/"
 - **۱۰۷ فکت**
 - **۲۰ راهنمای بازی**
 
+## فهرست جامع نقش‌ها
+
+- [۲۵۲ نقش دارای قانون منتشرشده]({{ site.baseurl }}/rulebook/roles/)
+
 ## دسترسی سریع
 
 - [نقش‌های RAVI]({{ site.baseurl }}/roles/)
