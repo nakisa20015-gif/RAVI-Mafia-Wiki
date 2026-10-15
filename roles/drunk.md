@@ -1,3 +1,10 @@
+---
+layout: default
+title: "مست / ساقی | Drunk"
+description: "نقش مست / ساقی | Drunk در دانشنامه RAVI"
+permalink: "/roles/drunk/"
+---
+
 # مست / ساقی | Drunk
 
 **تیم:** شهروند
