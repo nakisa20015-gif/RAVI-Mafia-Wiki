@@ -1,0 +1,1177 @@
+[
+  {
+    "category": "act",
+    "title": "اکت دفاع ساختاریافته",
+    "sort_order": 1
+  },
+  {
+    "category": "act",
+    "title": "اکت فشار کنترل‌شده",
+    "sort_order": 2
+  },
+  {
+    "category": "act",
+    "title": "اکت جمع‌بندی آخر روز",
+    "sort_order": 3
+  },
+  {
+    "category": "act",
+    "title": "اکت سؤال زنجیره‌ای",
+    "sort_order": 4
+  },
+  {
+    "category": "act",
+    "title": "اکت دفاع سه‌خطی",
+    "sort_order": 5
+  },
+  {
+    "category": "act",
+    "title": "اکت بازسازی رأی",
+    "sort_order": 6
+  },
+  {
+    "category": "act",
+    "title": "اکت فشار بدون شلوغی",
+    "sort_order": 7
+  },
+  {
+    "category": "act",
+    "title": "اکت وصیت تحلیلی",
+    "sort_order": 8
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 01 | سؤال تک‌نقطه‌ای",
+    "sort_order": 2000
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 02 | بازسازی رأی",
+    "sort_order": 2001
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 03 | دفاع سه‌خطی",
+    "sort_order": 2002
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 04 | وصیت تحلیلی",
+    "sort_order": 2003
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 05 | سکوت بعد از سؤال",
+    "sort_order": 2004
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 06 | قفل موضع",
+    "sort_order": 2005
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 07 | تست تغییر نظر",
+    "sort_order": 2006
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 08 | مقایسه دو دفاع",
+    "sort_order": 2007
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 09 | سؤال گذشته‌نگر",
+    "sort_order": 2008
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 10 | ثبت قول",
+    "sort_order": 2009
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 11 | رأی با دلیل",
+    "sort_order": 2010
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 12 | فشار روی رأی امن",
+    "sort_order": 2011
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 13 | تست زوج",
+    "sort_order": 2012
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 14 | تست فاصله‌سازی",
+    "sort_order": 2013
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 15 | سؤال بدون راه فرار",
+    "sort_order": 2014
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 16 | بازخوانی ادعا",
+    "sort_order": 2015
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 17 | تحلیل قبل از نتیجه",
+    "sort_order": 2016
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 18 | بررسی واکنش خروج",
+    "sort_order": 2017
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 19 | رأی معکوس آزمایشی",
+    "sort_order": 2018
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 20 | فشار زمانی",
+    "sort_order": 2019
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 21 | شهروند ساده شفاف",
+    "sort_order": 2020
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 22 | کارآگاه کم‌ریسک",
+    "sort_order": 2021
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 23 | کارآگاه با استثنا",
+    "sort_order": 2022
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 24 | پزشک بدون الگو",
+    "sort_order": 2023
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 25 | نگهبان روی نقش محتمل",
+    "sort_order": 2024
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 26 | گروگانگیر روی منبع اطلاعات",
+    "sort_order": 2025
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 27 | ناتو با صبر",
+    "sort_order": 2026
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 28 | تکاور انتخاب حساب‌شده",
+    "sort_order": 2027
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 29 | تفنگدار پخش اطلاعات",
+    "sort_order": 2028
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 30 | تیر جنگی محافظه‌کار",
+    "sort_order": 2029
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 31 | مذاکره روی هدف معتبر",
+    "sort_order": 2030
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 32 | خبرنگار روی تغییر رفتار",
+    "sort_order": 2031
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 33 | تک‌تیرانداز با آستانه بالا",
+    "sort_order": 2032
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 34 | زره‌پوش طبیعی بازی کن",
+    "sort_order": 2033
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 35 | شیاد شکار ادعا",
+    "sort_order": 2034
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 36 | بازپرس دوگانه هوشمند",
+    "sort_order": 2035
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 37 | محقق روی مافیای محتمل",
+    "sort_order": 2036
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 38 | روئین‌تن بی‌ادعا",
+    "sort_order": 2037
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 39 | دن مافیا آرام",
+    "sort_order": 2038
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 40 | عطار با برنامه دوشب",
+    "sort_order": 2039
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 41 | ساحره روی نقش کلیدی",
+    "sort_order": 2040
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 42 | جلاد با اطلاعات کافی",
+    "sort_order": 2041
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 43 | آهنگر روی هدف پرفشار",
+    "sort_order": 2042
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 44 | وارث انتخاب حساب‌شده",
+    "sort_order": 2043
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 45 | مظنون بدون وحشت",
+    "sort_order": 2044
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 46 | کدخدا اعتماد مرحله‌ای",
+    "sort_order": 2045
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 47 | رئیس مافیا مدیریت تیم",
+    "sort_order": 2046
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 48 | مافیای ساده پوشش نرم",
+    "sort_order": 2047
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 49 | فاصله‌سازی کنترل‌شده",
+    "sort_order": 2048
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 50 | شهروند روی الگوی رأی",
+    "sort_order": 2049
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 51 | لیست سه مظنون",
+    "sort_order": 2050
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 52 | لیست دو شهروند محتمل",
+    "sort_order": 2051
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 53 | سؤال از مدافع",
+    "sort_order": 2052
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 54 | سؤال از مهاجم",
+    "sort_order": 2053
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 55 | تست ثبات",
+    "sort_order": 2054
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 56 | پایان روز خلاصه‌سازی",
+    "sort_order": 2055
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 57 | شروع روز با داده شب",
+    "sort_order": 2056
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 58 | جداکردن فکت از حس",
+    "sort_order": 2057
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 59 | بررسی رأی‌های متوالی",
+    "sort_order": 2058
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 60 | جلوگیری از موج رأی",
+    "sort_order": 2059
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 61 | شکار تغییر روایت",
+    "sort_order": 2060
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 62 | سؤال فرضی",
+    "sort_order": 2061
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 63 | فشار روی بی‌موضعی",
+    "sort_order": 2062
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 64 | حفظ نقش کلیدی",
+    "sort_order": 2063
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 65 | جلوگیری از نقش‌لو",
+    "sort_order": 2064
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 66 | شمارش اکشن مصرف‌شده",
+    "sort_order": 2065
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 67 | کنترل House Rule",
+    "sort_order": 2066
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 68 | چک تعادل تعداد",
+    "sort_order": 2067
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 69 | چک نقش تکراری",
+    "sort_order": 2068
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 70 | راوی بدون لحن اضافه",
+    "sort_order": 2069
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 71 | راوی با تایمر ثابت",
+    "sort_order": 2070
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 72 | راوی با ثبت مخفی",
+    "sort_order": 2071
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 73 | حل اکشن مرحله‌ای",
+    "sort_order": 2072
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 74 | چک شرط برد",
+    "sort_order": 2073
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 75 | اعلام استثنا قبل بازی",
+    "sort_order": 2074
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 76 | ثبت رأی دیجیتال",
+    "sort_order": 2075
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 77 | ثبت نتیجه نقش",
+    "sort_order": 2076
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 78 | MVP با معیار",
+    "sort_order": 2077
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 79 | بازخورد بعد بازی",
+    "sort_order": 2078
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 80 | مرور تعامل نقش",
+    "sort_order": 2079
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 81 | تمرین دفاع ۳۰ ثانیه",
+    "sort_order": 2080
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 82 | تمرین تحلیل بدون نقش",
+    "sort_order": 2081
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 83 | تمرین پیش‌بینی خروج",
+    "sort_order": 2082
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 84 | تمرین تشخیص موج",
+    "sort_order": 2083
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 85 | تمرین یادداشت کوتاه",
+    "sort_order": 2084
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 86 | تمرین بازی شهروند ساده",
+    "sort_order": 2085
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 87 | تمرین مافیا بدون دفاع مستقیم",
+    "sort_order": 2086
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 88 | تمرین نقش اطلاعاتی",
+    "sort_order": 2087
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 89 | تمرین ضدحدس ناتو",
+    "sort_order": 2088
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 90 | تمرین پیدا کردن نقش",
+    "sort_order": 2089
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 91 | تمرین مدیریت استرس",
+    "sort_order": 2090
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 92 | تمرین شنیدن فعال",
+    "sort_order": 2091
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 93 | تمرین ضدتعصب",
+    "sort_order": 2092
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 94 | تمرین سناریوی جایگزین",
+    "sort_order": 2093
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 95 | تمرین رتبه‌بندی مظنون",
+    "sort_order": 2094
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 96 | تمرین رأی مستقل",
+    "sort_order": 2095
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 97 | تمرین بازی با محدودیت زمان",
+    "sort_order": 2096
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 98 | تمرین پسابازی",
+    "sort_order": 2097
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 99 | تمرین رول‌بوک",
+    "sort_order": 2098
+  },
+  {
+    "category": "act",
+    "title": "اکت حرفه‌ای 100 | تمرین هدف روز بعد",
+    "sort_order": 2099
+  },
+  {
+    "category": "fact",
+    "title": "اطلاعات شب همیشه قطعی نیست",
+    "sort_order": 2
+  },
+  {
+    "category": "fact",
+    "title": "تناقض مهم‌تر از اشتباه ساده است",
+    "sort_order": 3
+  },
+  {
+    "category": "fact",
+    "title": "دفاع خوب الزاماً شهروندی نیست",
+    "sort_order": 4
+  },
+  {
+    "category": "fact",
+    "title": "سکوت هم داده تولید می‌کند",
+    "sort_order": 5
+  },
+  {
+    "category": "fact",
+    "title": "تغییر رأی را با زمانش بسنج",
+    "sort_order": 6
+  },
+  {
+    "category": "fact",
+    "title": "ادعای نقش باید با سناریو جور باشد",
+    "sort_order": 7
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 01 | اطلاعات شب مطلق نیست",
+    "sort_order": 1000
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 02 | رأی آخر لحظه مهم است",
+    "sort_order": 1001
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 03 | دفاع قوی مساوی شهروند نیست",
+    "sort_order": 1002
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 04 | سکوت هم رفتار است",
+    "sort_order": 1003
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 05 | تغییر نظر همیشه بد نیست",
+    "sort_order": 1004
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 06 | تناقض تکراری مهم‌تر از لغزش است",
+    "sort_order": 1005
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 07 | نقش باید با تعداد بازیکن بخواند",
+    "sort_order": 1006
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 08 | مافیا به اطلاعات شهر نیاز دارد",
+    "sort_order": 1007
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 09 | شهروند ساده بی‌قدرت نیست",
+    "sort_order": 1008
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 10 | ترتیب شب نتیجه را عوض می‌کند",
+    "sort_order": 1009
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 11 | فشار هدفمند بهتر از شلوغی است",
+    "sort_order": 1010
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 12 | رأی‌گیری فقط خروج نیست",
+    "sort_order": 1011
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 13 | هم‌تیمی‌ها همیشه از هم دفاع نمی‌کنند",
+    "sort_order": 1012
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 14 | حمله شدید هم می‌تواند ساختگی باشد",
+    "sort_order": 1013
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 15 | ادعای نقش زمان‌بندی دارد",
+    "sort_order": 1014
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 16 | نقش مخفی باید اطلاعات تولید کند",
+    "sort_order": 1015
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 17 | همه سیوها قابل مشاهده نیستند",
+    "sort_order": 1016
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 18 | حذف نشدن یک نفر هویت او را ثابت نمی‌کند",
+    "sort_order": 1017
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 19 | استعلام منفی همیشه شهروند نیست",
+    "sort_order": 1018
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 20 | استعلام مثبت همیشه مافیا نیست",
+    "sort_order": 1019
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 21 | مافیا از ادعاهای عجولانه سود می‌برد",
+    "sort_order": 1020
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 22 | اطلاعات قدیمی ارزشش کم می‌شود",
+    "sort_order": 1021
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 23 | شهروند می‌تواند اشتباه کند",
+    "sort_order": 1022
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 24 | مافیا هم می‌تواند درست تحلیل کند",
+    "sort_order": 1023
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 25 | دفاع از شهروند لزوماً شهروندی نیست",
+    "sort_order": 1024
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 26 | رأی بدون توضیح داده ناقص است",
+    "sort_order": 1025
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 27 | رفتار قبل و بعد از خروج مهم است",
+    "sort_order": 1026
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 28 | وصیت خوب مسیر می‌دهد",
+    "sort_order": 1027
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 29 | بازیکن پرحرف الزاماً مؤثر نیست",
+    "sort_order": 1028
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 30 | بازیکن کم‌حرف الزاماً مافیا نیست",
+    "sort_order": 1029
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 31 | نقش‌های کنترلی قبل از اکشن اهمیت دارند",
+    "sort_order": 1030
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 32 | ضدبلاک می‌تواند اکشن را برگرداند",
+    "sort_order": 1031
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 33 | ناتو معمولاً جای شلیک عمل می‌کند",
+    "sort_order": 1032
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 34 | تکاور فقط در شرط خاص فعال می‌شود",
+    "sort_order": 1033
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 35 | شلیک تکاور به رئیس همیشه کشنده نیست",
+    "sort_order": 1034
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 36 | تفنگ مشقی اطلاعات اجتماعی می‌سازد",
+    "sort_order": 1035
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 37 | تفنگ روز با سیو شب یکی نیست",
+    "sort_order": 1036
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 38 | مذاکره زمان فعال شدن دارد",
+    "sort_order": 1037
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 39 | هدف مذاکره محدود است",
+    "sort_order": 1038
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 40 | خبرنگار بعد از جذب ارزش می‌گیرد",
+    "sort_order": 1039
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 41 | تک‌تیرانداز ریسک دوطرفه دارد",
+    "sort_order": 1040
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 42 | گادفادر استثنای شلیک شهر است",
+    "sort_order": 1041
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 43 | محقق با همه یک نتیجه ندارد",
+    "sort_order": 1042
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 44 | شیاد منبع اطلاعات را هدف می‌گیرد",
+    "sort_order": 1043
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 45 | بازپرس نقش روزساز است",
+    "sort_order": 1044
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 46 | روئین‌تن اکشن ندارد اما مصونیت دارد",
+    "sort_order": 1045
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 47 | دن مافیا معمولاً استعلام منفی دارد",
+    "sort_order": 1046
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 48 | سم عطار همیشه حذف قطعی نیست",
+    "sort_order": 1047
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 49 | ساحره اثر نقش‌ها را تغییر می‌دهد",
+    "sort_order": 1048
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 50 | مظنون شهروند با استعلام مثبت است",
+    "sort_order": 1049
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 51 | وارث به انتخاب شب معارفه وابسته است",
+    "sort_order": 1050
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 52 | جلاد حدس‌زن نقش است",
+    "sort_order": 1051
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 53 | آهنگر اطلاعات غیرمستقیم می‌سازد",
+    "sort_order": 1052
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 54 | کدخدا با اعتماد بازی می‌کند",
+    "sort_order": 1053
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 55 | ترتیب اکشن باید ثابت باشد",
+    "sort_order": 1054
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 56 | House Rule باید قبل بازی گفته شود",
+    "sort_order": 1055
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 57 | اعلام بیش از حد گرداننده اطلاعات لو می‌دهد",
+    "sort_order": 1056
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 58 | ثبت شب جلوی اختلاف را می‌گیرد",
+    "sort_order": 1057
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 59 | شرط برد باید بعد هر حذف چک شود",
+    "sort_order": 1058
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 60 | مساوی‌شدن تعداد معمولاً نقطه برد مافیاست",
+    "sort_order": 1059
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 61 | تحلیل زوج‌ها مفید است",
+    "sort_order": 1060
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 62 | سه‌نفره‌ها را هم ببین",
+    "sort_order": 1061
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 63 | رأی برگشتی مهم است",
+    "sort_order": 1062
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 64 | رأی ایمن نشانه قطعی نیست",
+    "sort_order": 1063
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 65 | رأی خلاف جریان اطلاعات می‌سازد",
+    "sort_order": 1064
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 66 | دفاع از خود باید با بازی قبلی بخواند",
+    "sort_order": 1065
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 67 | حافظه جمع خطاپذیر است",
+    "sort_order": 1066
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 68 | مافیا از فراموشی سود می‌برد",
+    "sort_order": 1067
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 69 | شهروند از شفافیت سود می‌برد",
+    "sort_order": 1068
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 70 | ادعای دیرهنگام همیشه دروغ نیست",
+    "sort_order": 1069
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 71 | ادعای زودهنگام هزینه دارد",
+    "sort_order": 1070
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 72 | لو دادن کامل رول‌بوک به مافیا کمک می‌کند",
+    "sort_order": 1071
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 73 | اطلاعات قطعی را از تحلیل جدا کن",
+    "sort_order": 1072
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 74 | یک نتیجه می‌تواند چند علت داشته باشد",
+    "sort_order": 1073
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 75 | حذف یک نقش تعادل را عوض می‌کند",
+    "sort_order": 1074
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 76 | تعداد زنده‌ها توان نقش را تغییر می‌دهد",
+    "sort_order": 1075
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 77 | نقش‌های جایگزین را اشتباه نگیر",
+    "sort_order": 1076
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 78 | اسم نقش بین منابع فرق می‌کند",
+    "sort_order": 1077
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 79 | آموزش باید سناریومحور باشد",
+    "sort_order": 1078
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 80 | گرداننده باید نتیجه نهایی را حل کند نه نیت را",
+    "sort_order": 1079
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 81 | نقش مرده دیگر اکشن نمی‌دهد",
+    "sort_order": 1080
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 82 | اکشن هم‌زمان نیاز به قانون روشن دارد",
+    "sort_order": 1081
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 83 | محدودیت تکرار هدف مهم است",
+    "sort_order": 1082
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 84 | توان یک‌بارمصرف باید ثبت شود",
+    "sort_order": 1083
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 85 | جان اضافه با سیو فرق دارد",
+    "sort_order": 1084
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 86 | زره با مصونیت فرق دارد",
+    "sort_order": 1085
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 87 | پادزهر با نجات فرق دارد",
+    "sort_order": 1086
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 88 | جذب ساید را تغییر می‌دهد نه گذشته را",
+    "sort_order": 1087
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 89 | نقش تبدیل‌شده باید وضعیت جدید بگیرد",
+    "sort_order": 1088
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 90 | اعلان نقش خروجی سناریومحور است",
+    "sort_order": 1089
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 91 | روز کور داده متفاوت دارد",
+    "sort_order": 1090
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 92 | شب معارفه اکشن کامل نیست",
+    "sort_order": 1091
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 93 | نقش مستقل شرط برد جدا دارد",
+    "sort_order": 1092
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 94 | داده خام بهتر از برداشت است",
+    "sort_order": 1093
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 95 | آمار برد بدون تعداد بازی ناقص است",
+    "sort_order": 1094
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 96 | MVP باید معیار روشن داشته باشد",
+    "sort_order": 1095
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 97 | نقش سخت‌تر لزوماً امتیاز بیشتر نمی‌خواهد",
+    "sort_order": 1096
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 98 | امتیاز تیمی و فردی را جدا کن",
+    "sort_order": 1097
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 99 | ترک بازی روی آمار اثر دارد",
+    "sort_order": 1098
+  },
+  {
+    "category": "fact",
+    "title": "فکت حرفه‌ای 100 | رول‌بوک واحد اختلاف را کم می‌کند",
+    "sort_order": 1099
+  },
+  {
+    "category": "fact",
+    "title": "گردن گیری",
+    "sort_order": 9999
+  },
+  {
+    "category": "how_to_play",
+    "title": "چرخه استاندارد بازی",
+    "sort_order": 1
+  },
+  {
+    "category": "how_to_play",
+    "title": "چطور سناریو انتخاب کنیم؟",
+    "sort_order": 2
+  },
+  {
+    "category": "how_to_play",
+    "title": "نقش‌خوانی قبل از شروع",
+    "sort_order": 3
+  },
+  {
+    "category": "how_to_play",
+    "title": "شب معارفه",
+    "sort_order": 4
+  },
+  {
+    "category": "how_to_play",
+    "title": "ترتیب بیداری شب",
+    "sort_order": 5
+  },
+  {
+    "category": "how_to_play",
+    "title": "رأی‌گیری و دفاع",
+    "sort_order": 6
+  },
+  {
+    "category": "how_to_play",
+    "title": "شرط برد",
+    "sort_order": 7
+  },
+  {
+    "category": "how_to_play",
+    "title": "نکته گردانندگی",
+    "sort_order": 8
+  },
+  {
+    "category": "how_to_play",
+    "title": "تکاور | ساختار سناریو",
+    "sort_order": 100
+  },
+  {
+    "category": "how_to_play",
+    "title": "تکاور | ترتیب شب",
+    "sort_order": 101
+  },
+  {
+    "category": "how_to_play",
+    "title": "تکاور | استثناهای مهم",
+    "sort_order": 102
+  },
+  {
+    "category": "how_to_play",
+    "title": "مذاکره | ساختار سناریو",
+    "sort_order": 110
+  },
+  {
+    "category": "how_to_play",
+    "title": "مذاکره | تک‌تیرانداز و زره‌پوش",
+    "sort_order": 111
+  },
+  {
+    "category": "how_to_play",
+    "title": "مذاکره | زمان فعال شدن خبرنگار",
+    "sort_order": 112
+  },
+  {
+    "category": "how_to_play",
+    "title": "بازپرس | ساختار سناریو",
+    "sort_order": 120
+  },
+  {
+    "category": "how_to_play",
+    "title": "بازپرس | محقق/هانتر",
+    "sort_order": 121
+  },
+  {
+    "category": "how_to_play",
+    "title": "بازپرس | کارآگاه و شیاد",
+    "sort_order": 122
+  },
+  {
+    "category": "how_to_play",
+    "title": "کاپو | ساختار سناریو",
+    "sort_order": 130
+  },
+  {
+    "category": "how_to_play",
+    "title": "کاپو | سم و پادزهر",
+    "sort_order": 131
+  },
+  {
+    "category": "how_to_play",
+    "title": "کاپو | استعلام و ارث",
+    "sort_order": 132
+  }
+]
