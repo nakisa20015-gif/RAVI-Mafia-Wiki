@@ -1,23 +1,29 @@
-# فهرست نقش‌های RAVI | RAVI Mafia Roles
+---
+layout: default
+title: "نقش‌های مافیا در RAVI"
+description: "فهرست نقش‌های مستندشده مافیا در دانشنامه RAVI"
+permalink: "/roles/"
+---
+
+# نقش‌های RAVI | RAVI Mafia Roles
 
 مرجع اصلی و نسخه به‌روز قوانین: [ویکی رسمی RAVI](https://ravi-private-private.nakisa20015.workers.dev/wiki/)
 
-- [مست / ساقی — Drunk](./drunk.md)
-- [دزد — Thief](./thief.md)
-- [قهرمان — Hero](./hero.md)
-- [نخبه / بمب‌ساز شهر — Bomb Maker](./bomb-maker.md)
-- [هزارچهره — Many Faces](./many-faces.md)
-- [دکتر — Doctor](./doctor.md)
-- [میلر / مظنون — Miller](./miller.md)
-- [زندانبان — Jailer](./jailer.md)
-- [تفنگدار — Gunner](./gunner.md)
+- [مست / ساقی — Drunk]({{ site.baseurl }}/roles/drunk/)
+- [دزد — Thief]({{ site.baseurl }}/roles/thief/)
+- [قهرمان — Hero]({{ site.baseurl }}/roles/hero/)
+- [نخبه / بمب‌ساز شهر — Bomb Maker]({{ site.baseurl }}/roles/bomb-maker/)
+- [هزارچهره — Many Faces]({{ site.baseurl }}/roles/many-faces/)
+- [دکتر — Doctor]({{ site.baseurl }}/roles/doctor/)
+- [میلر / مظنون — Miller]({{ site.baseurl }}/roles/miller/)
+- [زندانبان — Jailer]({{ site.baseurl }}/roles/jailer/)
+- [تفنگدار — Gunner]({{ site.baseurl }}/roles/gunner/)
+- [روان‌پزشک — Psychiatrist]({{ site.baseurl }}/roles/psychiatrist/)
+- [تک‌تیرانداز شهر — Sniper]({{ site.baseurl }}/roles/sniper/)
+- [محافظ — Bodyguard]({{ site.baseurl }}/roles/bodyguard/)
+- [کارآگاه — Detective]({{ site.baseurl }}/roles/detective-role/)
+- [پدرخوانده — Godfather]({{ site.baseurl }}/roles/godfather-role/)
+- [مذاکره‌کننده — Negotiator]({{ site.baseurl }}/roles/negotiator-role/)
+- [خبرنگار — Reporter]({{ site.baseurl }}/roles/reporter/)
 
-- [روان‌پزشک — Psychiatrist](./psychiatrist.md)
-- [تک‌تیرانداز شهر — Sniper](./sniper.md)
-- [محافظ — Bodyguard](./bodyguard.md)
-- [کارآگاه — Detective](./detective-role.md)
-- [پدرخوانده — Godfather](./godfather-role.md)
-- [مذاکره‌کننده — Negotiator](./negotiator-role.md)
-- [خبرنگار — Reporter](./reporter.md)
-
-صفحات این بخش برای معرفی عمومی نقش‌های مستندشده RAVI ایجاد شده‌اند. جزئیات نهایی هر نقش و تفاوت‌های سناریویی در ویکی رسمی RAVI مرجع است.
+این صفحات نقش‌هایی را پوشش می‌دهند که تا این مرحله در دانشنامه عمومی RAVI مستند شده‌اند. قوانین سناریویی ممکن است متفاوت باشند.
