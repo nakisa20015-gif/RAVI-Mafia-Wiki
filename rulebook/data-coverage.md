@@ -30,3 +30,8 @@ permalink: "/rulebook/data-coverage/"
 - [اکت‌ها]({{ site.baseurl }}/education/acts/)
 - [فکت‌ها]({{ site.baseurl }}/education/facts/)
 - [ویکی رسمی RAVI](https://ravi-private-private.nakisa20015.workers.dev/wiki/)
+
+## خروجی داده عمومی
+
+- [فهرست نقش‌ها به‌صورت JSON]({{ site.baseurl }}/data/role-catalog.json)
+- [فهرست محتوای آموزشی به‌صورت JSON]({{ site.baseurl }}/data/education-index.json)
