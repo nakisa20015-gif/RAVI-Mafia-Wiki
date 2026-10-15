@@ -11,6 +11,12 @@
 - [سناریوی اپیک](https://ravi-private-private.nakisa20015.workers.dev/wiki/scenarios/epic/)
 - [سناریوی منتالیست پیشرفته](https://ravi-private-private.nakisa20015.workers.dev/wiki/scenarios/advanced-mentalist/)
 
+## راهنمای دانشنامه
+
+- [فهرست کامل عمومی](./INDEX.md)
+- [نقش‌های RAVI](./roles/README.md)
+- [سناریوهای RAVI](./scenarios/README.md)
+
 ## ساختار محتوا
 
 ویکی رسمی RAVI منبع اصلی (Source of Truth) قوانین است. نسخه عمومی GitHub برای انتشار مستندات عمومی نقش‌ها و سناریوها و ایجاد مسیر دسترسی مستقیم به صفحات رسمی RAVI استفاده می‌شود.
