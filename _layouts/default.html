@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="fa" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>{% if page.title %}{{ page.title | escape }} | {% endif %}RAVI Mafia Wiki</title>
+<meta name="description" content="{{ page.description | default: site.description | strip_html | escape }}">
+<meta name="robots" content="index,follow">
+<link rel="canonical" href="{{ site.url }}{{ site.baseurl }}{{ page.url }}">
+<link rel="stylesheet" href="{{ site.baseurl }}/assets/style.css">
+</head>
+<body>
+<header class="top"><div class="wrap">
+<a class="brand" href="{{ site.baseurl }}/">RAVI | راوی</a>
+<nav>
+<a href="{{ site.baseurl }}/roles/">نقش‌ها</a>
+<a href="{{ site.baseurl }}/scenarios/">سناریوها</a>
+<a href="{{ site.baseurl }}/education/">آموزش</a>
+<a href="{{ site.baseurl }}/rulebook/">رول‌بوک</a>
+<a href="https://ravi-private-private.nakisa20015.workers.dev/wiki/">ویکی رسمی</a>
+</nav>
+</div></header>
+<main class="wrap content">{{ content }}</main>
+<footer class="wrap footer">RAVI Mafia Wiki — NANIKI GAMES</footer>
+</body></html>
