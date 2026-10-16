@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
 Sitemap: https://nakisa20015-gif.github.io/RAVI-Mafia-Wiki/sitemap.xml
-Sitemap: https://nakisa20015-gif.github.io/RAVI-Mafia-Wiki/sitemap-ravi.txt
